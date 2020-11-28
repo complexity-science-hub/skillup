@@ -15,7 +15,7 @@ An initiative to share knowledge. We are all experts. Let`s help to level-up the
 
 ## topics
 
-When you want to teach a topic, it is suggested to take a look at [the OpenDS4All proejct](https://github.com/odpi/OpenDS4All) which already contains a lot of useful and re-usable content for you presentation.
+When you want to teach a topic, it is suggested to take a look at [the OpenDS4All project](https://github.com/odpi/OpenDS4All) which already contains a lot of useful and re-usable content for you presentation.
 
 currently available material:
 
