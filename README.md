@@ -20,3 +20,4 @@ When you want to teach a topic, it is suggested to take a look at [the OpenDS4Al
 currently available material:
 
 - [GIT-101 2020](git)
+- [Introduction to AWS Mechanical Turk](MTurk_tutorial)
