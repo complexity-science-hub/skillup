@@ -21,3 +21,5 @@ currently available material:
 
 - [GIT-101 2020](git)
 - [Introduction to AWS Mechanical Turk](MTurk_tutorial)
+- SQL 101 for MySQL & Postgres (only CSH internal recording is available)
+- [Neo4j 101 - an introduction to graph databases](neo4j101)
