@@ -14,3 +14,5 @@ An introduction to graph databases
 		- or simply start it using docker https://neo4j.com/developer/docker-run-neo4j/
 		- otherwise https://console.neo4j.org/ is usable for instant things (but limited)
 - books for more details https://neo4j.com/books/
+- further content:
+  - https://neo4j.com/videos/tips-tricks-data-modeling-best-practices-neo4j-ninjas-exclusive/
