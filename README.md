@@ -23,3 +23,4 @@ currently available material:
 - [Introduction to AWS Mechanical Turk](MTurk_tutorial)
 - SQL 101 for MySQL & Postgres (only CSH internal recording is available)
 - [Neo4j 101 - an introduction to graph databases](neo4j101)
+- Big Graph analytics using Cassandra & Spark Graphframes https://github.com/behas/cassandra-spark-graphframes-tutorial
