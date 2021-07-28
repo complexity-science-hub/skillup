@@ -1,0 +1,94 @@
+[
+  {
+    "Day": "2021-04-02T00:00:00.0",
+    "Price": 58801.1948438781,
+    "Market_Cap": 1098583823874.2308349609,
+    "Symbol": "btc",
+    "Name": "Bitcoin"
+  },
+  {
+    "Day": "2021-04-03T00:00:00.0",
+    "Price": 59060.026783338,
+    "Market_Cap": 1103133931136.55078125,
+    "Symbol": "btc",
+    "Name": "Bitcoin"
+  },
+  {
+    "Day": "2021-04-04T00:00:00.0",
+    "Price": 57060.4066547109,
+    "Market_Cap": 1067101827372.9527587891,
+    "Symbol": "btc",
+    "Name": "Bitcoin"
+  },
+  {
+    "Day": "2021-04-02T00:00:00.0",
+    "Price": 1970.4711995233,
+    "Market_Cap": 227187483748.8277893066,
+    "Symbol": "eth",
+    "Name": "Ethereum"
+  },
+  {
+    "Day": "2021-04-03T00:00:00.0",
+    "Price": 2134.1017882973,
+    "Market_Cap": 246446284273.6915588379,
+    "Symbol": "eth",
+    "Name": "Ethereum"
+  },
+  {
+    "Day": "2021-04-04T00:00:00.0",
+    "Price": 2016.667247293,
+    "Market_Cap": 233519912234.6300048828,
+    "Symbol": "eth",
+    "Name": "Ethereum"
+  },
+  {
+    "Day": "2021-04-05T00:00:00.0",
+    "Price": 2077.7552124224,
+    "Market_Cap": 239721240194.1401977539,
+    "Symbol": "eth",
+    "Name": "Ethereum"
+  },
+  {
+    "Day": "2021-04-02T00:00:00.0",
+    "Price": 0.0615928621,
+    "Market_Cap": 7924888032.6489915848,
+    "Symbol": "doge",
+    "Name": "Dogecoin"
+  },
+  {
+    "Day": "2021-04-03T00:00:00.0",
+    "Price": 0.0578670085,
+    "Market_Cap": 7507812667.9941339493,
+    "Symbol": "doge",
+    "Name": "Dogecoin"
+  },
+  {
+    "Day": "2021-04-04T00:00:00.0",
+    "Price": 0.0561907331,
+    "Market_Cap": 7298466978.786948204,
+    "Symbol": "doge",
+    "Name": "Dogecoin"
+  },
+  {
+    "Day": "2021-04-02T00:00:00.0",
+    "Price": 0.0000008805,
+    "Market_Cap": 0.0,
+    "Symbol": "bun",
+    "Name": "Bunnycoin"
+  },
+  {
+    "Day": "2021-04-03T00:00:00.0",
+    "Price": 0.0000008789,
+    "Market_Cap": 0.0,
+    "Symbol": "bun",
+    "Name": "Bunnycoin"
+  },
+  {
+    "Day": "2021-04-04T00:00:00.0",
+    "Price": 0.0000014663,
+    "Market_Cap": 0.0,
+    "Symbol": "bun",
+    "Name": "Bunnycoin"
+  },
+  
+]
