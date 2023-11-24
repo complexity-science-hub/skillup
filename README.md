@@ -24,3 +24,4 @@ currently available material:
 - SQL 101 for MySQL & Postgres (only CSH internal recording is available)
 - [Neo4j 101 - an introduction to graph databases](neo4j101)
 - Big Graph analytics using Cassandra & Spark Graphframes https://github.com/behas/cassandra-spark-graphframes-tutorial
+- Introduction to DBT https://github.com/complexity-science-hub/data-pipeline-mini-example
